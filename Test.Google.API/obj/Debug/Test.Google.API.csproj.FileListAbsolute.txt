@@ -1,0 +1,5 @@
+C:\Users\Student\source\repos\PPSlides\Test.Google.API\obj\Debug\Test.Google.API.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\PPSlides\Test.Google.API\obj\Debug\MainWindow.g.cs
+C:\Users\Student\source\repos\PPSlides\Test.Google.API\obj\Debug\App.g.cs
+C:\Users\Student\source\repos\PPSlides\Test.Google.API\obj\Debug\Test.Google.API_MarkupCompile.cache
+C:\Users\Student\source\repos\PPSlides\Test.Google.API\obj\Debug\Test.Google.API_MarkupCompile.lref
