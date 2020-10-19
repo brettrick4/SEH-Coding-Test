@@ -25,10 +25,10 @@ namespace PPSlides
             InitializeComponent();
         }
 
-        public void Button_Click(object sender, RoutedEventArgs e)
-        {
-            //MyLabel.Content = MyTextBox.Text;
-            MyTextBox.Clear();
-        }
+        //public void Button_Click(object sender, RoutedEventArgs e)
+        //{
+          //MyLabel.Content = MyTextBox.Text;
+          //MyTextBox.Clear();
+        //}
     }
 }
